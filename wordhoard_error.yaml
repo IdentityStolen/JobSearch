@@ -1,0 +1,225 @@
+2023-07-17 04:59:12:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-17 04:59:12:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-17 04:59:12:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/engineer
+2023-07-17 04:59:14:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-17 04:59:14:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-17 04:59:15:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-17 04:59:15:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-17 04:59:15:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/lawyer
+2023-07-17 04:59:16:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-17 04:59:16:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-18 23:12:35:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-18 23:12:35:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-18 23:12:35:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/engineer
+2023-07-18 23:12:36:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-18 23:12:36:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-18 23:12:37:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-18 23:12:37:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-18 23:12:37:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/lawyer
+2023-07-18 23:12:38:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-18 23:12:38:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-18 23:16:47:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-18 23:16:47:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-18 23:16:47:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/engineer
+2023-07-18 23:16:48:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-18 23:16:48:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-18 23:16:49:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-18 23:16:49:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-18 23:16:49:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/lawyer
+2023-07-18 23:16:49:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-18 23:16:49:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-18 23:19:30:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-18 23:19:30:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-18 23:19:30:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/engineer
+2023-07-18 23:19:31:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-18 23:19:31:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-18 23:19:32:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-18 23:19:32:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-18 23:19:32:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/lawyer
+2023-07-18 23:19:34:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-18 23:19:34:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-18 23:51:05:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-18 23:51:05:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-18 23:51:05:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/engineer
+2023-07-18 23:51:05:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-18 23:51:05:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-18 23:51:06:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-18 23:51:06:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-18 23:51:06:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/lawyer
+2023-07-18 23:51:07:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-18 23:51:07:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-18 23:53:13:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-18 23:53:13:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-18 23:53:13:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/med
+2023-07-18 23:53:14:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2023-07-18 23:53:14:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2023-07-18 23:53:14:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.merriam-webster.com/thesaurus/med
+2023-07-18 23:53:14:wordhoard.synonyms:INFO: Merriam-webster.com had no synonym reference for the word med
+2023-07-18 23:53:15:wordhoard.synonyms:INFO: Thesaurus.com had no synonym reference for the word med
+2023-07-18 23:53:30:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-18 23:53:30:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-18 23:53:30:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/air
+2023-07-18 23:53:31:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-18 23:53:31:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-19 00:28:45:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 00:28:45:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 00:28:45:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/engineer
+2023-07-19 00:28:47:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-19 00:28:47:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-19 00:28:47:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 00:28:47:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 00:28:47:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/lawyer
+2023-07-19 00:28:49:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-19 00:28:49:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-19 00:29:14:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 00:29:14:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 00:29:14:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/math
+2023-07-19 00:29:16:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-19 00:29:16:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-19 00:29:24:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 00:29:24:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 00:29:24:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/stat
+2023-07-19 00:29:24:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2023-07-19 00:29:24:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2023-07-19 00:29:24:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.merriam-webster.com/thesaurus/stat
+2023-07-19 00:29:24:wordhoard.synonyms:INFO: Merriam-webster.com had no synonym reference for the word stat
+2023-07-19 00:29:25:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2023-07-19 00:29:25:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2023-07-19 00:29:25:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.synonym.com/synonyms/stat
+2023-07-19 00:29:25:wordhoard.synonyms:INFO: Synonym.com had no synonym reference for the word stat
+2023-07-19 00:29:26:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-19 00:29:26:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-19 00:29:26:wordhoard.synonyms:INFO: Wordnet had no synonym reference for the word stat
+2023-07-19 04:30:02:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 04:30:02:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 04:30:02:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/engineer
+2023-07-19 04:30:04:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-19 04:30:04:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-19 04:30:04:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 04:30:04:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 04:30:04:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/lawyer
+2023-07-19 04:30:06:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-19 04:30:06:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-19 04:30:27:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 04:30:27:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 04:30:27:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/mech
+2023-07-19 04:30:27:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2023-07-19 04:30:27:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2023-07-19 04:30:27:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.merriam-webster.com/thesaurus/mech
+2023-07-19 04:30:27:wordhoard.synonyms:INFO: Merriam-webster.com had no synonym reference for the word mech
+2023-07-19 04:30:27:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2023-07-19 04:30:27:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2023-07-19 04:30:27:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.synonym.com/synonyms/mech
+2023-07-19 04:30:27:wordhoard.synonyms:INFO: Synonym.com had no synonym reference for the word mech
+2023-07-19 04:30:28:wordhoard.synonyms:INFO: Thesaurus.com had no synonym reference for the word mech
+2023-07-19 04:30:29:wordhoard.synonyms:INFO: Wordnet had no synonym reference for the word mech
+2023-07-19 04:30:44:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 04:30:44:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 04:30:44:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/direct hire
+2023-07-19 04:30:44:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2023-07-19 04:30:44:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2023-07-19 04:30:44:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.merriam-webster.com/thesaurus/direct hire
+2023-07-19 04:30:44:wordhoard.synonyms:INFO: Merriam-webster.com had no synonym reference for the word direct hire
+2023-07-19 04:30:45:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2023-07-19 04:30:45:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2023-07-19 04:30:45:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.synonym.com/synonyms/direct hire
+2023-07-19 04:30:45:wordhoard.synonyms:INFO: Synonym.com had no synonym reference for the word direct hire
+2023-07-19 04:30:45:wordhoard.synonyms:INFO: Thesaurus.com had no synonym reference for the word direct hire
+2023-07-19 04:30:46:wordhoard.synonyms:INFO: Wordnet had no synonym reference for the word direct hire
+2023-07-19 04:31:04:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 04:31:04:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 04:31:04:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/assistant
+2023-07-19 04:31:06:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-19 04:31:06:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-19 04:31:19:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 04:31:19:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 04:31:19:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/manager
+2023-07-19 04:31:21:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-19 04:31:21:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-19 04:31:36:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 04:31:36:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 04:31:36:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/admin
+2023-07-19 04:31:37:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2023-07-19 04:31:37:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2023-07-19 04:31:37:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.merriam-webster.com/thesaurus/admin
+2023-07-19 04:31:37:wordhoard.synonyms:INFO: Merriam-webster.com had no synonym reference for the word admin
+2023-07-19 04:31:37:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2023-07-19 04:31:37:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2023-07-19 04:31:37:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.synonym.com/synonyms/admin
+2023-07-19 04:31:37:wordhoard.synonyms:INFO: Synonym.com had no synonym reference for the word admin
+2023-07-19 04:31:38:wordhoard.synonyms:INFO: Thesaurus.com had no synonym reference for the word admin
+2023-07-19 04:31:39:wordhoard.synonyms:INFO: Wordnet had no synonym reference for the word admin
+2023-07-19 04:31:48:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 04:31:48:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 04:31:48:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/flight
+2023-07-19 04:31:49:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-19 04:31:49:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-19 04:32:06:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 04:32:06:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 04:32:06:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/coach
+2023-07-19 04:32:07:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-19 04:32:07:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-19 04:32:19:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 04:32:19:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 04:32:19:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/clerk
+2023-07-19 04:32:21:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-19 04:32:21:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-19 04:33:53:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 403
+2023-07-19 04:33:53:wordhoard.utilities.basic_soup:ERROR: HTTP 403 is an HTTP status code meaning access to the requested resource is forbidden.
+2023-07-19 04:33:53:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.collinsdictionary.com/dictionary/english-thesaurus/doctor
+2023-07-19 04:33:55:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-19 04:33:55:wordhoard.synonyms:ERROR:   File "/Users/shree.kulkarni/python_project_kulkarni/venv/lib/python3.8/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-20 03:15:28:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-20 03:15:28:wordhoard.synonyms:ERROR:   File "/Users/shreeniwaskulkarni/Documents/python_project_kulkarni/venv/lib/python3.9/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+
+2023-07-20 03:15:30:wordhoard.synonyms:ERROR: An AttributeError occurred in the following code segment:
+2023-07-20 03:15:30:wordhoard.synonyms:ERROR:   File "/Users/shreeniwaskulkarni/Documents/python_project_kulkarni/venv/lib/python3.9/site-packages/wordhoard/synonyms.py", line 376, in _query_thesaurus_com
+    for list_item in word_container.find('ul').find_all('li'):
+

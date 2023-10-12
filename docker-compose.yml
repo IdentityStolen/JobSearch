@@ -1,0 +1,30 @@
+version: '3.7'
+
+services:
+
+#  web:
+#    build: .
+#    ports:
+#      - "8888:8888"
+#    depends_on:
+#      - database
+
+  database:
+    platform: linux/x86_64
+    image: mysql:8.0.26
+    environment:
+      MYSQL_ROOT_PASSWORD: usajobs_pass
+      MYSQL_DATABASE: usajobs_db
+      MYSQL_USER: usajobs_user
+      MYSQL_PASSWORD: usajobs_pass
+    command: --local-infile=1
+    volumes:
+      - mysql-data:/usajobs/lib/mysql
+      - ./docker/mysql/initdb.d:/docker-entrypoint-initdb.d
+    ports:
+      - 3306:3306
+
+
+volumes:
+  mysql-data:
+    driver: local
