@@ -41,8 +41,6 @@ Endpoint 2 (organizations):
 
 ## Setup
 
-Please use feature branch to get updates pushed by Shree.
-
 It would be great if you can test this on mac os since mysqlclient 
 library isn't working well with windows. If you wish to run on windows, 
 visit this page https://pypi.org/project/mysqlclient/ for installing 
@@ -57,11 +55,11 @@ will create virtual environment later.
 
 please make sure your docker is up & running. Please run following 
 command to create db docker container, inside project directory 
-(cd python_project_kulkarni)
+(cd JobSearch)
 `make build`
 `make up`
 
-I was unsuccessful creating `web` pod due to technical issues. So please
+Please
 install python 3.8.9 and create virtual environment out of it 
 Install dependencies using requirements.txt under project directory.
 `pip install -r requirements.txt`
