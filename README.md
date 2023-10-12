@@ -1,4 +1,10 @@
 
+## Purpose
+
+Purpose of this exercise id to create django app around government job search 
+since semantic based search wasn't working for upstream site. This project uses
+wordhoard library in order to achieve sematic search.
+
 ## Step 1: Data ingestion
 
 The data for our API will come a third party api, keys are free.
@@ -60,7 +66,7 @@ command to create db docker container, inside project directory
 `make up`
 
 Please
-install python 3.8.9 and create virtual environment out of it 
+install python 3.9.6 and create virtual environment out of it 
 Install dependencies using requirements.txt under project directory.
 `pip install -r requirements.txt`
 
