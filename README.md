@@ -1,7 +1,7 @@
 
 ## Purpose
 
-Purpose of this exercise id to create django app around government job search 
+Purpose of this exercise is to create django app around government job search 
 since semantic based search wasn't working for upstream site. This project uses
 wordhoard library in order to achieve sematic search.
 
