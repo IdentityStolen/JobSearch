@@ -13,13 +13,13 @@ services:
     platform: linux/x86_64
     image: mysql:8.0.26
     environment:
-      MYSQL_ROOT_PASSWORD: usajobs_pass
-      MYSQL_DATABASE: usajobs_db
-      MYSQL_USER: usajobs_user
-      MYSQL_PASSWORD: usajobs_pass
+      MYSQL_ROOT_PASSWORD: jobsearch_pass
+      MYSQL_DATABASE: jobsearch_db
+      MYSQL_USER: jobsearch_user
+      MYSQL_PASSWORD: jobsearch_pass
     command: --local-infile=1
     volumes:
-      - mysql-data:/usajobs/lib/mysql
+      - mysql-data:/jobsearch/lib/mysql
       - ./docker/mysql/initdb.d:/docker-entrypoint-initdb.d
     ports:
       - 3306:3306
